@@ -7,3 +7,5 @@ ESP32 Module: A powerful wireless module with dual-core processing, Wi-Fi, and B
 L298N Motor Driver: For controlling the bot’s motors.
 MPU6050: An IMU sensor for detecting hand gestures.
 3.7V Lithium-Ion Batteries: To power the bot.
+
+![image](https://github.com/pratz222/Arm-Gesture-controlled-bot-car-using-ESP-NOW/assets/53640877/a341eeab-e155-4ad1-b70d-c6707b46210d)
